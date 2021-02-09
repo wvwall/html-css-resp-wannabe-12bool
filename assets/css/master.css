@@ -33,6 +33,9 @@
     border-radius: 50%;
     padding: 30px;
   }
+  hr {
+    display: none;
+  }
 
 }
 
@@ -57,7 +60,9 @@
   }
   #why img {
     margin-left: 25%;
-
+  }
+  hr {
+    display: none;
   }
   img {
     height: 200px;
