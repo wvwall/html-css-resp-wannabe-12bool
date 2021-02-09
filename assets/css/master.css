@@ -85,16 +85,6 @@
 }
 
 @media all and (min-width: 992px) {
-  #lezioni img {
-    /* per centrare orizzontalmente */
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-  }
-  #lezioni h1, h3{
-    text-align: center;
-  }
-
   img {
     height: 250px;
   }
